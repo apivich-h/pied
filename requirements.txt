@@ -1,0 +1,28 @@
+# python 3.9.0
+# to install: pip install -r requirements.txt
+
+# -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+-f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+numpy==1.24.3
+jax==0.4.7
+jaxlib==0.4.7+cuda11.cudnn82
+numpyro==0.11.0
+flax==0.7.4
+jupyter
+matplotlib
+tqdm
+h5py
+matplotlib
+omegaconf
+jaxopt==0.6
+tensorboard
+tensorflow==2.12.1
+emcee==3.1.4
+ml_dtypes==0.2.0
+scikit-optimize==0.9.0
+pandas==1.4.4
+optax==0.1.7
+diffrax
+torch==2.0.1
+ax-platform==0.3.4
+pykonal
