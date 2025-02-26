@@ -1,0 +1,7 @@
+Data taken from paper:
+
+Investigating Steady Unconfined Groundwater Flow using Physics Informed Neural Networks
+
+Mohammad Afzal Shadab, Dingcheng Luo, Yiran Shen, Eric Hiatt, and Marc Andre Hesse
+
+GitHub link: https://github.com/dc-luo/seepagePINN/tree/main

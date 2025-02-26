@@ -1,0 +1,7 @@
+Data taken from:
+
+Biologically-informed neural networks guide mechanistic modeling from sparse experimental data.
+
+John H. Lagergren, John T. Nardini, Ruth E. Baker, Matthew J. Simpson, and Kevin B. Flores. 
+
+Link: https://github.com/jlager/BINNs

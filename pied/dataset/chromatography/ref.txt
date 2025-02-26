@@ -1,0 +1,5 @@
+Data taken from:
+
+Can a Computer “Learn” Nonlinear Chromatography?: Experimental Validation of Physics-Based Deep Neural Networks for the Simulation of Chromatographic Processes
+
+Sai Gokul Subraveti, Zukui Li, Vinay Prasad, and Arvind Rajendran
