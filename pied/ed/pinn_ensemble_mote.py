@@ -32,7 +32,6 @@ from ..utils.vmap_chunked import vmap_chunked
 from .utils.obs_fn_helper import get_vmap_oracle
 # from .ed_loop import ExperimentalDesign
 from .criterion_based import CriterionBasedAbstractMethod
-from .eig_estimators.losses import generate_loss
 from ..utils import to_cpu, tree_stack, tree_unstack
 
 # logger for this file

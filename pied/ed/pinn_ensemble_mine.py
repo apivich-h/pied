@@ -43,7 +43,6 @@ from ..utils import sample_from_uniform
 from ..utils.vmap_chunked import vmap_chunked
 # from .ed_loop import ExperimentalDesign
 from .criterion_based import CriterionBasedAbstractMethod
-from .eig_estimators.losses import generate_loss
 from .utils.obs_fn_helper import get_vmap_oracle
 
 # logger for this file

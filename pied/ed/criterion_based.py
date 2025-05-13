@@ -39,7 +39,6 @@ from ..utils import sample_from_uniform
 from ..utils.jax_utils import tree_stack
 from ..utils.vmap_chunked import vmap_chunked
 from .ed_loop import ExperimentalDesign
-from .eig_estimators.losses import generate_loss
 
 # logger for this file
 logging.getLogger().setLevel(logging.INFO)
