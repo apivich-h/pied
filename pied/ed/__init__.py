@@ -8,7 +8,7 @@ from .pinn_ensemble_inverse import PINNEnsembleInverseMethod
 
 from .pinn_ensemble_variational import PINNEnsembleWithVBOEDMethod
 from .pinn_ensemble_mine import PINNEnsembleWithMINEMethod
-from .pinnacle_ensemble import PINNACLEMethod
+# from .pinnacle_ensemble import PINNACLEMethod
 
 from .pinn_ensemble_fist import PINNFewStepInverseSolverTraining
 from .pinn_ensemble_mote import PINNModelTrainingEstimation
